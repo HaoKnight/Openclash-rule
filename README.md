@@ -1,3 +1,3 @@
 # 📖 Openclash-rule - 帮助文档
 
-🔧 自用的一些乱七八糟的脚本...
+🔧 Openclash插件的分流规则配置
